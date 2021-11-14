@@ -32,9 +32,9 @@
                 <TextBox x:Name="txtQuantity" Canvas.Left="86" Canvas.Top="14" Text="0" TextWrapping="Wrap" Width="54" FontWeight="Normal"/>
                 <Label x:Name="lblType" Content="Type" Canvas.Left="158" Canvas.Top="10" FontWeight="Normal"/>
                 <ComboBox x:Name="cmbType" Canvas.Left="204" Canvas.Top="14" Width="120"/>
-                <Label x:Name="lblPrice" Content="Price" Canvas.Left="355" Canvas.Top="14" FontWeight="Normal"/>
-                <TextBox x:Name="txtPrice" Canvas.Left="396" Canvas.Top="18" Text="0" TextWrapping="Wrap" Width="120" FontWeight="Normal" IsReadOnly="True"/>
-                <ListBox x:Name="lstSale" Height="78" Width="494" Canvas.Top="53" Canvas.Left="22"/>
+                <Label x:Name="lblPrice" Content="Price" Canvas.Left="368" Canvas.Top="14" FontWeight="Normal"/>
+                <TextBox x:Name="txtPrice" Canvas.Left="427" Canvas.Top="18" Text="0" TextWrapping="Wrap" Width="120" FontWeight="Normal" IsReadOnly="True"/>
+                <ListBox x:Name="lstSale" Height="78" Width="525" Canvas.Top="53" Canvas.Left="22"/>
                 <Label x:Name="lblTotal" Content="Total" Canvas.Left="349" Canvas.Top="145"/>
                 <TextBox x:Name="txtTotal" Canvas.Left="396" Canvas.Top="149" Text="0" TextWrapping="Wrap" Width="120" IsReadOnly="True"/>
                 <Button x:Name="btnAddToSale" Content="Add To Sale" Canvas.Left="587" Canvas.Top="53" FontWeight="Normal" Width="102" Height="26"/>
